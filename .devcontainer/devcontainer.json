@@ -36,6 +36,7 @@
                 "git.confirmSync": false,
                 "git.enableSmartCommit": true,
                 "githubPullRequests.defaultMergeMethod": "merge",
+                "python.languageServer": "None",
                 "terminal.integrated.copyOnSelection": true,
                 "terminal.integrated.fontSize": 20,
                 "terminal.integrated.rightClickBehavior": "copyPaste",
