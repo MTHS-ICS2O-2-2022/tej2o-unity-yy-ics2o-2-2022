@@ -3,4 +3,4 @@
  * This program ...
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, World! - 2')
